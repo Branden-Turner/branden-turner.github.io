@@ -1,0 +1,125 @@
+@charset "utf-8";
+
+html, body
+{
+	background-color: #000000;
+	color: #729CFF;
+	font-family: 'Arial', sans-serif;
+	font-size:18px;
+}
+
+.projectHeader
+{
+	background-color: #000000;
+    color: #6DFF96;
+	font-family: 'Arial', sans-serif;
+	font-size:30px;
+}
+
+.content
+{
+	width:80%;
+	max-width:800px;
+	margin:auto;
+}
+
+.menu
+{
+	text-align:center;
+	padding:15px;
+	font-size:22px;
+}
+
+.menuItem
+{
+	font-family: 'Lucida Console', sans-serif;
+	padding:15px;
+}
+
+.contactInfo
+{
+	text-align:center;
+	padding:15px;
+}
+
+.contactHeader
+{
+	color:#6DFF96
+}
+
+.codeSample
+{
+	height:300px;
+}
+
+
+.clear
+{
+	clear:both;
+}
+
+a.contactItem:link
+{
+	color:#ffffff;
+	text-decoration:none;
+}
+
+a.contactItem:active
+{
+	color:#ffffff;
+	text-decoration:none;
+}
+
+a.contactItem:visited
+{
+	color:#ffffff;
+	text-decoration:none;
+}
+
+a.contactItem:hover
+{
+	text-decoration:underline;
+}
+
+a.menuItem:link
+{
+	color:#ffffff;
+	text-decoration:none;
+}
+
+a.menuItem:hover
+{
+	text-decoration:underline;
+}
+
+a.menuItem:active
+{
+	color:#ffffff;
+	text-decoration:none;
+}
+
+a.menuItem:visited
+{
+	color:#ffffff;
+	text-decoration:none;
+}
+
+a.projectHeader:link
+{
+	text-decoration:none;
+}
+
+a.projectHeader:hover
+{
+	text-decoration:underline;
+}
+
+a.projectHeader:active
+{
+	text-decoration:none;
+}
+
+a.projectHeader:visited
+{
+	text-decoration:none;
+}
